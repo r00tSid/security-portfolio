@@ -16,7 +16,10 @@ The goal of this portfolio is to demonstrate **practical experience in Web3 secu
   Focus: Randomness security, fairness of draws, and game logic vulnerabilities.  
 
 - **[2025-09-16 – T-Swap](./2025-09-16-T-Swap.pdf)**  
-  Focus: Automated Market Maker (AMM) protocol, invariant checks, slippage protection, and fee mechanics.  
+  Focus: Automated Market Maker (AMM) protocol, invariant checks, slippage protection, and fee mechanics.
+  
+- **[2025-09-19 – ThunderLoan](./2025-09-19-ThunderLoan.pdf)**  
+  Focus: Flashloan mechanics, liquidity handling, storage correctness, fee calculation, and protocol invariants.
   > Completed as part of Patrick Collins’ Smart Contract Security course.  
 
 ---
