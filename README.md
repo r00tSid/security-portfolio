@@ -20,6 +20,10 @@ The goal of this portfolio is to demonstrate **practical experience in Web3 secu
   
 - **[2025-09-19 – ThunderLoan](./2025-09-19-ThunderLoan.pdf)**  
   Focus: Flashloan mechanics, liquidity handling, storage correctness, fee calculation, and protocol invariants.
+
+- **[2025-09-22 – Boss-Bridge](./2025-09-22-Boss_Bridge.pdf)**  
+  Focus: Cross-chain bridging mechanics, vault custody risks, signature replay protection, operator trust assumptions, and arbitrary call execution.
+
   > Completed as part of Patrick Collins’ Smart Contract Security course.  
 
 ---
